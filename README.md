@@ -1,7 +1,7 @@
 # SMS utilizando Node.Js e AWS.
 
 
-nmp init.
+npm init.
 npm install.
 
 npm install aws-sdk --save.
